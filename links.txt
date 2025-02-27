@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/NobyDa/Script/master/QuantumultX/Bilibili.list
 https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/cn.list
 https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/direct.list
 https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/proxy.list
