@@ -1,0 +1,13 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "browserleaks.org",
+        "dnsleaktest.com",
+        "ipleak.net",
+        "mypikpak.com"
+      ]
+    }
+  ],
+  "version": 2
+}
