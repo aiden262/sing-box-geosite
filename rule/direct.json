@@ -2,11 +2,15 @@
   "rules": [
     {
       "domain_suffix": [
+        "17173cdn.com",
         "265.com",
         "5200520.xyz",
         "aktv.top",
         "cfgo.cc",
+        "dongqiudi.com",
+        "fangdd.com",
         "foodieguide.com",
+        "haodf.com",
         "hxkba.com",
         "jin10.com",
         "jyrtv.tv",
@@ -14,9 +18,11 @@
         "mmp60.com",
         "ottdns.com",
         "pttime.org",
+        "runjiapp.com",
         "sobeylive.com",
         "swrtv.com",
         "touzime.com",
+        "xcarimg.com",
         "xiapibuy.com"
       ]
     }
