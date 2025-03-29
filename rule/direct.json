@@ -1,0 +1,37 @@
+{
+  "rules": [
+    {
+      "domain_suffix": [
+        "17173cdn.com",
+        "265.com",
+        "5200520.xyz",
+        "aktv.top",
+        "cfgo.cc",
+        "dongqiudi.com",
+        "fangdd.com",
+        "foodieguide.com",
+        "haodf.com",
+        "hihonorcloud.com",
+        "hxkba.com",
+        "jin10.com",
+        "jyrtv.tv",
+        "kuaidi.com",
+        "leisu.com",
+        "mijia.tech",
+        "mmp60.com",
+        "ottdns.com",
+        "pttime.org",
+        "runjiapp.com",
+        "sobeylive.com",
+        "swrtv.com",
+        "touzime.com",
+        "w8m8.cc",
+        "ws888.cc",
+        "xcarimg.com",
+        "xiapibuy.com",
+        "zhiji.com"
+      ]
+    }
+  ],
+  "version": 1
+}
