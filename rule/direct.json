@@ -1,11 +1,24 @@
 {
   "rules": [
     {
+      "domain": [
+        "DOMAIN",
+        "audio-ak-spotify-com.akamaized.net",
+        "cdn-spotify-experiments.conductrics.com",
+        "heads-ak-spotify-com.akamaized.net",
+        "heads4-ak-spotify-com.akamaized.net",
+        "spotify.com.edgesuite.net",
+        "spotify.map.fastly.net",
+        "spotify.map.fastlylb.net"
+      ]
+    },
+    {
       "domain_suffix": [
         "17173cdn.com",
         "265.com",
         "aktv.top",
         "api-inference.modelscope.cn",
+        "byspotify.com",
         "cdnhk.5200520.xyz",
         "cfgo.cc",
         "darwinchow.com",
@@ -31,11 +44,25 @@
         "ottdns.com",
         "ottiptv.cc",
         "php.5200520.xyz",
+        "pscdn.co",
         "pttime.org",
         "runjiapp.com",
+        "scdn.co",
         "snssdk.com",
         "sobeylive.com",
+        "spoti.fi",
+        "spotify-everywhere.com",
+        "spotify.com",
+        "spotify.design",
+        "spotify.link",
+        "spotifycdn.com",
+        "spotifycdn.net",
+        "spotifycharts.com",
+        "spotifycodes.com",
+        "spotifyforbrands.com",
+        "spotifyjobs.com",
         "swrtv.com",
+        "tospotify.com",
         "touzime.com",
         "tv.5200520.xyz",
         "ubixioe.com",
