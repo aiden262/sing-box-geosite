@@ -1,0 +1,15 @@
+{
+  "rules": [
+    {
+      "domain": [
+        "open.spotify.com"
+      ]
+    },
+    {
+      "domain_suffix": [
+        "mypikpak.com"
+      ]
+    }
+  ],
+  "version": 1
+}
