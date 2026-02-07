@@ -1,2 +1,3 @@
 https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/direct.list
 https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/spotify.list
+https://raw.githubusercontent.com/aiden262/Backup/refs/heads/main/proxy.list
